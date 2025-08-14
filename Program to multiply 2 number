@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void main()
+{/* Program to multiply two numbers */
+
+int a,b,c;
+printf("Enter two Numbers for Multiply");
+
+scanf("%d%d,&a,&b");
+
+c=ab;
+printf("%d%d=%d\n,a,b,c");
+}
